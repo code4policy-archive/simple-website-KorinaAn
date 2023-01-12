@@ -1,12 +1,12 @@
 /* Set background */
 html {
-  background-color: pink;
+  background-color: turquoise;
 }
 
 /* styles for the body of the site */
 body {
   width: 60%;
-  background-color: pink;
+  background-color: turquoise;
   padding: 0 20px 20px 20px;
   margin-top: 25px;
   margin-left: auto;
@@ -15,17 +15,17 @@ body {
 
 /* styles for headline */
 h1 {
-  color: black;
+  color: seagreen;
 }
 
 /* styles for subheadline */
 h2 {
-  color: black;
+  color: yellow;
 }
 
 /* styles for paragraph */
 p {
-    color: black;
+    color: papayawhip;
 }
 
 /* styles for image */
